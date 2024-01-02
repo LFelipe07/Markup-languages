@@ -1,0 +1,9 @@
+{
+    "name": "City Zoo",
+    "animal":
+    [
+        {"type":"Reptile","species":"Crocodile"},
+        {"type":"Bird","species":"Crowned pigeon"},
+        {"type":"Mammal","species":"Giraffe"}
+    ]
+}

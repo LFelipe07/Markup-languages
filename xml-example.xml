@@ -1,0 +1,17 @@
+<xml version="1.0" encoding="UTF-8">
+<EmployeeData>
+    <employee id="34594">
+        <firstname>Heather</firstname>
+        <lastname>Banks</lastname>
+        <hiredate>01/01/2024</hiredate>
+        <deptcode>AA021</deptcode>
+        <salary>10500</salary>
+    </employee>
+    <employee id="34595">
+        <firstname>Tina</firstname>
+        <lastname>Banks</lastname>
+        <hiredate>19/01/2024</hiredate>
+        <deptcode>AA022</deptcode>
+        <salary>8600</salary>
+    </employee>
+</EmployeeData>
